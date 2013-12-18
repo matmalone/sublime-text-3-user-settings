@@ -1,4 +1,5 @@
 {
+	"bold_folder_labels": true,
 	"file_exclude_patterns":
 	[
 	],
@@ -8,7 +9,6 @@
 	],
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-	"bold_folder_labels": true,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -28,6 +28,5 @@
 	"shift_tab_unindent": true,
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
-    // "color_scheme": "Packages/User/themes/Tomorrow-Night.tmTheme",
 	"word_wrap": "true"
 }
