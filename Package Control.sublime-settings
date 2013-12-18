@@ -1,0 +1,24 @@
+{
+    "auto_upgrade_last_run": null,	
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Coffee Formatter",
+		"CoffeeScript",
+		"ColorPick",
+		"Format SQL",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"Goto Documentation",
+		"JavaScript Console",
+		"jQuery",
+		"Markdown Preview",
+		"Nodejs",
+		"Package Control",
+		"PhpBeautifier",
+		"Puppet",
+		"QuickPrint",
+		"Terminal"
+	]
+}
