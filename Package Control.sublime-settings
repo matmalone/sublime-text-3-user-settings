@@ -3,8 +3,8 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"Better CoffeeScript",
 		"Coffee Formatter",
-		"CoffeeScript",
 		"ColorPick",
 		"Format SQL",
 		"Gist",
