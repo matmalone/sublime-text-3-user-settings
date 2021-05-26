@@ -11,7 +11,17 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Coffee Formatter",
+		"Filter Code",
+		"Format JSDoc @params",
+		"Format SQL",
+		"JSON Reindent",
+		"PhpBeautifier",
+		"PhpDoc",
+		"PHPIntel",
+		"QuickPrint",
+		"SqlBeautifier",
+		"Vintage",
 	],
 	"new_window_settings":
 	{
@@ -19,7 +29,7 @@
 		"show_minimap": false,
 		"show_tabs": true,
 		"side_bar_visible": true,
-		"status_bar_visible": true
+		"status_bar_visible": true,
 	},
 	"rulers":
 	[
@@ -28,5 +38,6 @@
 	"shift_tab_unindent": true,
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
-	"word_wrap": "true"
+	"word_wrap": "true",
+	"theme": "Adaptive.sublime-theme",
 }

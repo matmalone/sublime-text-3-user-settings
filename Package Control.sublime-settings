@@ -10,17 +10,26 @@
 		"Gist",
 		"Git",
 		"GitGutter",
-		"Goto Documentation",
+		"GotoDocumentation",
 		"JavaScript Console",
 		"jQuery",
-		"Markdown Preview",
+		"MarkdownPreview",
 		"Nodejs",
 		"Package Control",
+		"PHP Codebeautifier",
 		"PhpBeautifier",
 		"Puppet",
 		"Quick File Move",
 		"QuickPrint",
 		"SideBarEnhancements",
-		"Terminal"
-	]
+		"sql-formatter",
+		"Terminal",
+	],
+	"in_process_packages":
+	[
+		"Coffee Formatter",
+		"Format SQL",
+		"PhpBeautifier",
+		"QuickPrint",
+	],
 }
